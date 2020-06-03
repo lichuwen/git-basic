@@ -1,2 +1,6 @@
 hi,this is karen
 step5:Update newfile and push
+
+Practice Output && Submit
+2.Your answer for What is the difference between add, commit, and push?
+Answer:add命令把文件添加到本地仓库的stage区，commit把stage区的暂存文件提交到当前分支的仓库，push命令把本地仓库的提交同步到远程仓库
